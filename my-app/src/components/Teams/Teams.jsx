@@ -3,7 +3,7 @@ import './Teams.scss';
 const Teams = () => {
     return (
         <div className='container'>
-            <h1 className='fheading' id='heading'>Teams you own</h1>
+            <h1  className='fheading' id='heading'>Teams you own</h1>
            
             <div className='sbody'>
                 <h3>Developers</h3>

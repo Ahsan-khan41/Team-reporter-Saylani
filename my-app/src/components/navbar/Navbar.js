@@ -8,7 +8,7 @@ const Navbar = () => {
     return (
         <div>
             <Layout>
-                <Header style={{ position: 'fixed', zIndex: 1, width: '100%' }}>
+                <Header  style={{ position: 'fixed', zIndex: 1, width: '100%' }}>
                     <div className="logo" />
                     <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['2']}>
                         <Menu.Item key="1">Teams</Menu.Item>
