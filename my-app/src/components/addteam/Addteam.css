@@ -1,0 +1,36 @@
+.container {
+    display: grid; 
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.main {
+    border: 2px solid black;
+    padding: 35px;
+}
+
+.input {
+   margin: 0px 0px 10px 0px;
+}
+
+.button{
+    width: 60px;
+    margin: 0px 0px 0px 20px;
+}
+
+#createButton {
+    background-color: orangered;
+    color: white;
+}
+
+#cancelButton {
+    background-color: blue;
+    color: white;
+}
+
+.select {
+    width: 79%;
+    margin: 0px 0px 10px 0px;
+}
